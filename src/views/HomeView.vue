@@ -1,8 +1,3 @@
-<script setup>
-</script>
-
 <template>
-  <main>
-    <h1>Home</h1>
-  </main>
+  <div>Hello</div>
 </template>
